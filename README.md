@@ -52,7 +52,7 @@ To explore these SwiftUI UI flows:
 
 1.  **Clone this repository:**
     ```bash
-    git clone [https://github.com/ZUXXSU/Rimashaar-assignment-UI.git](https://github.com/ZUXXSU/Rimashaar-assignment-UI.git)
+    git clone https://github.com/ZUXXSU/Rimashaar-assignment-UI.git
     ```
 2.  **Open in Xcode:**
     Navigate to the project directory and open the `.xcodeproj` file.
